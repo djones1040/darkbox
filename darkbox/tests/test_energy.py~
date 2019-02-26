@@ -1,0 +1,5 @@
+from darkbox import energy
+
+from numpy.testing import assert_equal
+
+def test_square():

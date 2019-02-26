@@ -1,0 +1,18 @@
+{
+  "numpy/core/tests/test_arrayprint.py::TestArrayRepr::()::test_object_subclass": true,
+  "numpy/core/tests/test_longdouble.py::test_array_repr": true,
+  "numpy/core/tests/test_longdouble.py::test_format": true,
+  "numpy/core/tests/test_longdouble.py::test_percent": true,
+  "numpy/core/tests/test_multiarray.py::TestBool::()::test_cast_from_bytes": true,
+  "numpy/core/tests/test_multiarray.py::TestBool::()::test_cast_from_unicode": true,
+  "numpy/core/tests/test_numeric.py::TestFloatExceptions::()::test_floating_exceptions": true,
+  "numpy/core/tests/test_scalar_ctors.py::TestFromString::()::test_intp": true,
+  "numpy/core/tests/test_scalarmath.py::TestConversion::()::test_int_from_infinite_longdouble___int__": true,
+  "numpy/core/tests/test_umath.py::TestLog2::()::test_log2_special": true,
+  "numpy/core/tests/test_umath.py::TestMinMax::()::test_reduce_warns": true,
+  "numpy/core/tests/test_umath_complex.py::TestCarg::()::test_zero": true,
+  "numpy/core/tests/test_umath_complex.py::TestCexp::()::test_special_values2": true,
+  "numpy/lib/tests/test_recfunctions.py::TestJoinBy::()::test_same_name_different_dtypes_key": true,
+  "numpy/ma/tests/test_core.py::TestMaskedConstant::()::test_coercion_bytes": true,
+  "numpy/ma/tests/test_core.py::TestMaskedConstant::()::test_coercion_unicode": true
+}
