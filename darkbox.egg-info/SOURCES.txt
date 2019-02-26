@@ -1,8 +1,0 @@
-README.md
-setup.py
-darkbox/energy.py
-darkbox.egg-info/PKG-INFO
-darkbox.egg-info/SOURCES.txt
-darkbox.egg-info/dependency_links.txt
-darkbox.egg-info/not-zip-safe
-darkbox.egg-info/top_level.txt
